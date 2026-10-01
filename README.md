@@ -1,7 +1,7 @@
 # Hotel Booking Cancellation Prediction
 
 Machine Learning project developed as part of the course  
-**"Πληροφοριακά Συστήματα Τεχνητής Νοημοσύνης για Επιχειρήσεις"**  
+**"Artificial Intelligence Information Systems for Business"**  
 at the University of Macedonia.
 
 ## Project Objective
